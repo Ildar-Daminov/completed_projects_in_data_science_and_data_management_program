@@ -1,0 +1,168 @@
+state,quarter_number,Average_rating,average_delivery_time
+Alabama,1,4.0000,61.2667
+Alabama,2,4.1250,72.2500
+Alabama,3,2.2500,51.0000
+Alabama,4,1.6667,136.3333
+Alaska,1,4.5000,79.0000
+Alaska,2,2.2500,143.7500
+Alaska,3,2.0000,35.0000
+Alaska,4,1.6667,202.6667
+Arizona,1,4.3000,56.6000
+Arizona,2,3.5000,29.5000
+Arizona,3,3.2500,95.2500
+Arizona,4,3.5000,210.0000
+Arkansas,1,4.0000,49.3333
+Arkansas,2,5.0000,35.0000
+Arkansas,3,3.0000,35.0000
+California,1,3.6765,50.9118
+California,2,2.8966,59.0345
+California,3,2.9286,98.9286
+California,4,2.8000,182.3000
+Colorado,1,3.5000,61.8571
+Colorado,2,2.2857,45.1429
+Colorado,3,3.0000,176.0000
+Colorado,4,2.5000,173.6667
+Connecticut,1,2.8000,45.4000
+Connecticut,2,3.3333,91.0000
+Connecticut,3,2.6000,48.4000
+Connecticut,4,2.1667,168.0000
+Delaware,1,5.0000,3.0000
+Delaware,2,5.0000,154.0000
+Delaware,3,4.0000,525.0000
+Delaware,4,2.6667,207.3333
+"District of Columbia",1,3.5714,41.0000
+"District of Columbia",2,4.0000,124.2000
+"District of Columbia",3,3.1429,127.7143
+"District of Columbia",4,2.5000,186.2500
+Florida,1,3.5714,56.3571
+Florida,2,3.5333,41.3333
+Florida,3,2.9583,121.2917
+Florida,4,2.1579,168.5263
+Georgia,1,4.4000,74.4000
+Georgia,2,4.2857,124.1429
+Georgia,3,4.0000,271.2500
+Georgia,4,3.3333,223.6667
+Hawaii,1,2.0000,44.5000
+Hawaii,2,3.5000,181.0000
+Hawaii,4,2.5000,140.0000
+Idaho,1,3.5000,29.5000
+Idaho,2,4.0000,29.0000
+Idaho,3,4.0000,35.0000
+Idaho,4,1.0000,176.0000
+Illinois,1,3.5556,66.1111
+Illinois,2,3.2500,63.2500
+Illinois,3,2.7143,48.8571
+Illinois,4,2.0000,166.8000
+Indiana,1,4.0000,56.0000
+Indiana,2,3.0000,68.8333
+Indiana,3,3.5000,116.0000
+Indiana,4,2.0000,188.4286
+Iowa,1,3.0000,37.6667
+Iowa,2,4.0000,3.0000
+Iowa,3,3.0000,35.0000
+Iowa,4,2.6667,151.6667
+Kansas,1,3.5000,79.5000
+Kansas,2,3.0000,35.0000
+Kansas,3,3.0000,481.0000
+Kansas,4,2.8571,161.1429
+Kentucky,1,3.1667,46.0000
+Kentucky,2,5.0000,22.0000
+Kentucky,3,1.0000,124.0000
+Louisiana,1,3.5000,73.6667
+Louisiana,2,4.5000,47.0000
+Louisiana,3,2.8333,183.8333
+Louisiana,4,4.0000,127.5000
+Maine,4,2.0000,176.0000
+Maryland,1,3.6667,75.6667
+Maryland,2,3.7500,53.0000
+Maryland,3,3.0000,138.4000
+Maryland,4,2.0000,146.3333
+Massachusetts,1,2.7143,47.2857
+Massachusetts,3,1.5000,54.0000
+Massachusetts,4,3.0000,183.6000
+Michigan,1,3.5000,107.0000
+Michigan,2,4.0000,59.4000
+Michigan,3,2.6667,250.5556
+Michigan,4,4.0000,81.0000
+Minnesota,1,3.2000,54.8000
+Minnesota,2,3.8000,99.0000
+Minnesota,3,3.3333,33.0000
+Minnesota,4,2.7500,202.5000
+Mississippi,1,2.0000,87.0000
+Missouri,1,3.1667,43.6667
+Missouri,2,2.7500,45.5000
+Missouri,3,3.0000,100.0000
+Missouri,4,2.1250,186.0000
+Montana,1,3.0000,66.0000
+Montana,3,4.0000,440.0000
+Montana,4,2.0000,176.0000
+Nebraska,1,3.0000,85.0000
+Nebraska,2,5.0000,123.0000
+Nebraska,3,2.3333,36.0000
+Nebraska,4,4.0000,216.0000
+Nevada,1,4.0000,55.8000
+Nevada,2,4.0000,63.0000
+Nevada,3,3.0000,57.3333
+Nevada,4,1.6667,192.3333
+"New Hampshire",1,3.0000,35.0000
+"New Hampshire",2,5.0000,25.0000
+"New Hampshire",4,1.0000,216.0000
+"New Jersey",1,3.6667,68.3333
+"New Jersey",2,3.7500,77.0000
+"New Jersey",4,3.5000,154.5000
+"New Mexico",1,4.0000,67.5000
+"New Mexico",2,2.3333,117.0000
+"New York",1,3.2727,52.5000
+"New York",2,3.3684,71.5263
+"New York",3,2.8667,131.0667
+"New York",4,2.4615,163.3077
+"North Carolina",1,2.6667,73.3333
+"North Carolina",2,4.0000,117.5000
+"North Carolina",3,2.5000,103.0000
+"North Carolina",4,2.6000,164.2000
+"North Dakota",2,5.0000,35.0000
+"North Dakota",4,2.0000,217.0000
+Ohio,1,3.4444,74.3333
+Ohio,2,3.5455,64.5455
+Ohio,3,3.1250,42.6250
+Ohio,4,1.8000,129.6000
+Oklahoma,1,3.5000,46.0000
+Oklahoma,2,4.0000,49.0000
+Oklahoma,3,3.0000,139.2000
+Oklahoma,4,3.0000,173.5000
+Oregon,2,1.7500,34.7500
+Oregon,3,5.0000,69.0000
+Oregon,4,1.5000,132.5000
+Pennsylvania,1,4.0000,57.0000
+Pennsylvania,2,4.4000,63.2000
+Pennsylvania,3,2.8889,93.6667
+Pennsylvania,4,3.5000,225.7500
+"South Carolina",1,2.6667,48.0000
+"South Carolina",2,2.0000,5.0000
+"South Carolina",3,1.0000,35.0000
+"South Carolina",4,2.0000,115.0000
+Tennessee,1,3.1429,72.2857
+Tennessee,2,2.7143,99.4286
+Tennessee,3,3.0000,47.3333
+Tennessee,4,1.3333,73.6667
+Texas,1,3.8966,53.5862
+Texas,2,2.9643,80.0714
+Texas,3,3.1739,126.0870
+Texas,4,2.0556,186.1667
+Utah,1,4.6667,71.0000
+Utah,3,1.8571,43.8571
+Vermont,1,2.0000,44.0000
+Virginia,1,3.4000,62.0000
+Virginia,2,2.8182,65.4545
+Virginia,3,3.6000,44.6000
+Virginia,4,2.3333,173.3333
+Washington,1,3.5000,56.8000
+Washington,2,2.4286,62.1429
+Washington,3,3.3333,110.5000
+Washington,4,2.8000,171.4000
+"West Virginia",1,4.0000,91.3333
+"West Virginia",2,4.0000,65.0000
+"West Virginia",4,2.0000,162.0000
+Wisconsin,1,3.3333,44.3333
+Wisconsin,4,1.8000,192.6000
+Wyoming,2,3.0000,185.0000

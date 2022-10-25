@@ -1,0 +1,21 @@
+quarter_number,customer_feedback,Number_of_ratings,Total_quarter_feedback
+1,Bad,35,310
+1,Good,89,310
+1,Okay,59,310
+1,"Very Bad",34,310
+1,"Very Good",93,310
+2,Bad,37,262
+2,Good,58,262
+2,Okay,53,262
+2,"Very Bad",39,262
+2,"Very Good",75,262
+3,Bad,52,229
+3,Good,48,229
+3,Okay,50,229
+3,"Very Bad",41,229
+3,"Very Good",38,229
+4,Bad,58,199
+4,Good,20,199
+4,Okay,40,199
+4,"Very Bad",61,199
+4,"Very Good",20,199

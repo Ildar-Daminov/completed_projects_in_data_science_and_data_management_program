@@ -1,0 +1,168 @@
+state,quarter_number,CNT
+Alabama,1,15
+Alabama,2,8
+Alabama,3,4
+Alabama,4,3
+Alaska,1,2
+Alaska,2,4
+Alaska,3,1
+Alaska,4,3
+Arizona,1,10
+Arizona,2,4
+Arizona,3,8
+Arizona,4,4
+Arkansas,1,3
+Arkansas,2,2
+Arkansas,3,1
+California,1,34
+California,2,29
+California,3,14
+California,4,20
+Colorado,1,14
+Colorado,2,7
+Colorado,3,6
+Colorado,4,6
+Connecticut,1,5
+Connecticut,2,6
+Connecticut,3,5
+Connecticut,4,6
+Delaware,1,1
+Delaware,2,1
+Delaware,3,1
+Delaware,4,3
+"District of Columbia",1,7
+"District of Columbia",2,10
+"District of Columbia",3,14
+"District of Columbia",4,4
+Florida,1,28
+Florida,2,15
+Florida,3,24
+Florida,4,19
+Georgia,1,5
+Georgia,2,7
+Georgia,3,4
+Georgia,4,3
+Hawaii,1,2
+Hawaii,2,2
+Hawaii,4,2
+Idaho,1,2
+Idaho,2,2
+Idaho,3,2
+Idaho,4,1
+Illinois,1,9
+Illinois,2,4
+Illinois,3,7
+Illinois,4,5
+Indiana,1,4
+Indiana,2,5
+Indiana,3,6
+Indiana,4,7
+Iowa,1,6
+Iowa,2,1
+Iowa,3,1
+Iowa,4,3
+Kansas,1,2
+Kansas,2,1
+Kansas,3,3
+Kansas,4,7
+Kentucky,1,6
+Kentucky,2,1
+Kentucky,3,1
+Louisiana,1,6
+Louisiana,2,6
+Louisiana,3,6
+Louisiana,4,2
+Maine,4,1
+Maryland,1,3
+Maryland,2,4
+Maryland,3,5
+Maryland,4,3
+Massachusetts,1,7
+Massachusetts,3,2
+Massachusetts,4,5
+Michigan,1,2
+Michigan,2,5
+Michigan,3,9
+Michigan,4,1
+Minnesota,1,5
+Minnesota,2,5
+Minnesota,3,3
+Minnesota,4,4
+Mississippi,1,2
+Missouri,1,6
+Missouri,2,8
+Missouri,3,1
+Missouri,4,8
+Montana,1,1
+Montana,3,1
+Montana,4,1
+Nebraska,1,2
+Nebraska,2,1
+Nebraska,3,3
+Nebraska,4,1
+Nevada,1,5
+Nevada,2,6
+Nevada,3,3
+Nevada,4,3
+"New Hampshire",1,1
+"New Hampshire",2,1
+"New Hampshire",4,1
+"New Jersey",1,3
+"New Jersey",2,4
+"New Jersey",4,2
+"New Mexico",1,2
+"New Mexico",2,3
+"New York",1,22
+"New York",2,19
+"New York",3,15
+"New York",4,13
+"North Carolina",1,3
+"North Carolina",2,4
+"North Carolina",3,8
+"North Carolina",4,5
+"North Dakota",2,1
+"North Dakota",4,1
+Ohio,1,9
+Ohio,2,11
+Ohio,3,8
+Ohio,4,5
+Oklahoma,1,2
+Oklahoma,2,7
+Oklahoma,3,5
+Oklahoma,4,2
+Oregon,2,4
+Oregon,3,1
+Oregon,4,2
+Pennsylvania,1,7
+Pennsylvania,2,5
+Pennsylvania,3,9
+Pennsylvania,4,4
+"South Carolina",1,6
+"South Carolina",2,1
+"South Carolina",3,1
+"South Carolina",4,1
+Tennessee,1,7
+Tennessee,2,7
+Tennessee,3,6
+Tennessee,4,3
+Texas,1,29
+Texas,2,28
+Texas,3,23
+Texas,4,18
+Utah,1,3
+Utah,3,7
+Vermont,1,1
+Virginia,1,5
+Virginia,2,11
+Virginia,3,5
+Virginia,4,3
+Washington,1,10
+Washington,2,7
+Washington,3,6
+Washington,4,5
+"West Virginia",1,3
+"West Virginia",2,3
+"West Virginia",4,4
+Wisconsin,1,3
+Wisconsin,4,5
+Wyoming,2,1
