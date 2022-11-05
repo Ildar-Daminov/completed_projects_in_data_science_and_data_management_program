@@ -7,7 +7,7 @@ This repository shares final projects (Jupyter notebooks, SQL queries, Tableau d
 * [Python for Data Systems](https://github.com/Ildar-Daminov/completed_projects_in_data_science_and_data_management_program/tree/main/Python%20for%20Data%20Systems):  
 Learned skills and tools: Web Scraping, Pandas, Dataframes, Seaborn, Exploratory Data Analysis, NumPy, Descriptive Statistics, RegEx
 
-* [SQL and Databases](https://github.com/Ildar-Daminov/completed_projects_in_data_science_and_data_management_program/tree/main/SQL%20and%20Databases): 
+* [SQL and Databases](https://github.com/Ildar-Daminov/completed_projects_in_data_science_and_data_management_program/tree/main/SQL%20and%20Databases):
 Learned skills and tools: MySQL, Normalizing Data Schemas with DDL, Querying the Data with DML, Tables Views and Functions, Automating data transformation with Stored Procedures, Creating Business Presentations
 
 * [Data Visualisation using Tableau](https://github.com/Ildar-Daminov/completed_projects_in_data_science_and_data_management_program/tree/main/Data%20Visualisation%20with%20Tableau):  
