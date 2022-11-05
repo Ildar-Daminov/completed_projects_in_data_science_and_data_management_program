@@ -5,15 +5,19 @@ This repository shares final projects (Jupyter notebooks, SQL queries, Tableau d
 ### List of completed projects (the list is still updated): 
 
 * [Python for Data Systems](https://github.com/Ildar-Daminov/completed_projects_in_data_science_and_data_management_program/tree/main/Python%20for%20Data%20Systems):  
+
 Learned skills and tools: Web Scraping, Pandas, Dataframes, Seaborn, Exploratory Data Analysis, NumPy, Descriptive Statistics, RegEx
 
 * [SQL and Databases](https://github.com/Ildar-Daminov/completed_projects_in_data_science_and_data_management_program/tree/main/SQL%20and%20Databases):
+
 Learned skills and tools: MySQL, Normalizing Data Schemas with DDL, Querying the Data with DML, Tables Views and Functions, Automating data transformation with Stored Procedures, Creating Business Presentations
 
 * [Data Visualisation using Tableau](https://github.com/Ildar-Daminov/completed_projects_in_data_science_and_data_management_program/tree/main/Data%20Visualisation%20with%20Tableau):  
+
 Learned skills and tools: Tableau, Stories, Dashboarding, Views, Storyboarding, KPI Controls, Blends
 
 * [Data Analytics on Cloud (Google Cloud Platform)](https://github.com/Ildar-Daminov/completed_projects_in_data_science_and_data_management_program/tree/main/Data%20Analytics%20on%20Cloud):
+
 Learned skills and tools: GCP, Cloud Composer, MySQL Cloud DB, Airflow UI, Airflow DAG, Airflow Operators, Xcoms, Slack WebHook
 
 * Building Data Science Models: in progress
