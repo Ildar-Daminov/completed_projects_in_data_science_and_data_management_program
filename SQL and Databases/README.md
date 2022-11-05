@@ -1,4 +1,4 @@
-# Course SQL and Databases 
+# Course SQL and Databases (MySQL) 
 This foldes shares Jupyter notebooks, sql files and corresponding csv files for the final project New Wheels Case Study from program "Data Science and Data Management Systems" at University of Texas | Great Learning. 
 
 
