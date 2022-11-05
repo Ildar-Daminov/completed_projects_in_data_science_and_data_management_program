@@ -13,7 +13,7 @@ As a data scientist, you see that there is an array of questions that are being 
 Please refer to
 - submission_Ildar_DAMINOV.sql to see queries in MySQL
 - csv files Q1, Q2 etc correspnd to outputs of SQL queries and these csv files are used in Jupyter notebook "submission_notebook_Ildar_DAMINOV.ipynb" 
-- Jupyter notebook "submission_notebook_Ildar_DAMINOV.ipynb" to see post-anaysis done in python
+- Jupyter notebook "submission_notebook_Ildar_DAMINOV.ipynb" or its html version to see post-anaysis done in python
 
 ### Skills and Tools
 MySQL, Normalizing Data Schemas with DDL, Querying the Data with DML, Tables Views and Functions, Automating data transformation with Stored Procedures, Creating Business Presentations
