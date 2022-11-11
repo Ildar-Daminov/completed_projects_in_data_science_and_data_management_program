@@ -1,6 +1,6 @@
 # My completed projects from program "Data Science and Data Management Systems" at University of Texas | Great Learning
 
-<img align="left" alt="Coding" height=50 width="350" src="https://www.mccombs.utexas.edu/media/mccombs-website/site-assets/images/4_RGB_Program_Brand_Extension_Formal_Texas_Executive_Education.svg">
+<img align="left" alt="Coding" height=60 width="350" src="https://www.mccombs.utexas.edu/media/mccombs-website/site-assets/images/4_RGB_Program_Brand_Extension_Formal_Texas_Executive_Education.svg">
 
 
 
