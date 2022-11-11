@@ -1,5 +1,9 @@
 # My completed projects from program "Data Science and Data Management Systems" at University of Texas | Great Learning
 
+<img align="left" alt="Coding" height=50 width="350" src="https://www.mccombs.utexas.edu/media/mccombs-website/site-assets/images/4_RGB_Program_Brand_Extension_Formal_Texas_Executive_Education.svg">
+
+
+
 This repository shares final projects (Jupyter notebooks, SQL queries, Tableau dashboard, htmls files etc) in complement with [eportfolio](https://eportfolio.mygreatlearning.com/ildar-daminov) to provide details on  skills and tools learned during DSDM program (May 2022 - Jan 2023). 
 
 ### List of completed projects (the list is still updated): 
