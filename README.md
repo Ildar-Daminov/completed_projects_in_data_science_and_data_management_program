@@ -24,6 +24,9 @@ Learned skills and tools: Tableau, Stories, Dashboarding, Views, Storyboarding, 
 
 Learned skills and tools: GCP, Cloud Composer, MySQL Cloud DB, Airflow UI, Airflow DAG, Airflow Operators, Xcoms, Slack WebHook
 
-* Building Data Science Models: in progress
+* [Building Data Science Models] (https://github.com/Ildar-Daminov/completed_projects_in_data_science_and_data_management_program/tree/main/Building%20Data%20Science%20Models)
 
+Learned skills and tools: Data Preprocessing, Logistic Regression, Decision Trees, Model Performance, Feature Engineering, K Means Clustering
+
+Capstone project: in progress
 
