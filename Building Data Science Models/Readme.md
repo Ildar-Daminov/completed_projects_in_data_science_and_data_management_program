@@ -1,4 +1,4 @@
-# Data Analytics on Cloud (in Google Cloud Platform)
+# Building Data Science Models
 
 This repository shares html and ipynb files, representing the solution of the course project on Building Data Science Models "Bank Telemarketing Project". 
 
