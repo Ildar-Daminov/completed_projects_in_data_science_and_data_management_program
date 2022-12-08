@@ -28,5 +28,5 @@ Learned skills and tools: GCP, Cloud Composer, MySQL Cloud DB, Airflow UI, Airfl
 
 Learned skills and tools: Data Preprocessing, Logistic Regression, Decision Trees, Model Performance, Feature Engineering, K Means Clustering
 
-Capstone project: in progress
+* Capstone project: in progress
 
