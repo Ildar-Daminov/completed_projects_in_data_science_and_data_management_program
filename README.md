@@ -11,26 +11,31 @@ This repository shares final projects (Jupyter notebooks, SQL queries, Tableau d
 * [Python for Data Systems](https://github.com/Ildar-Daminov/completed_projects_in_data_science_and_data_management_program/tree/main/Python%20for%20Data%20Systems):  
 
 Course marks: 94/100
+
 Learned skills and tools: Web Scraping, Pandas, Dataframes, Seaborn, Exploratory Data Analysis, NumPy, Descriptive Statistics, RegEx
 
 * [SQL and Databases](https://github.com/Ildar-Daminov/completed_projects_in_data_science_and_data_management_program/tree/main/SQL%20and%20Databases):
 
 Course marks: 58/60
+
 Learned skills and tools: MySQL, Normalizing Data Schemas with DDL, Querying the Data with DML, Tables Views and Functions, Automating data transformation with Stored Procedures, Creating Business Presentations
 
 * [Data Visualisation using Tableau](https://github.com/Ildar-Daminov/completed_projects_in_data_science_and_data_management_program/tree/main/Data%20Visualisation%20with%20Tableau):  
 
 Course marks: 56/60
+
 Learned skills and tools: Tableau, Stories, Dashboarding, Views, Storyboarding, KPI Controls, Blends
 
 * [Data Analytics on Cloud (Google Cloud Platform)](https://github.com/Ildar-Daminov/completed_projects_in_data_science_and_data_management_program/tree/main/Data%20Analytics%20on%20Cloud):
 
 Course marks: 73/80
+
 Learned skills and tools: GCP, Cloud Composer, MySQL Cloud DB, Airflow UI, Airflow DAG, Airflow Operators, Xcoms, Slack WebHook
 
 * [Building Data Science Models](https://github.com/Ildar-Daminov/completed_projects_in_data_science_and_data_management_program/tree/main/Building%20Data%20Science%20Models):
 
 Course marks: 108/110
+
 Learned skills and tools: Data Preprocessing, Logistic Regression, Decision Trees, Model Performance, Feature Engineering, K Means Clustering
 
 * Capstone project: in progress
