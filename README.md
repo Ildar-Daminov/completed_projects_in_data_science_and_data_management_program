@@ -38,5 +38,6 @@ Course marks: 108/110
 
 Learned skills and tools: Data Preprocessing, Logistic Regression, Decision Trees, Model Performance, Feature Engineering, K Means Clustering
 
-* Capstone project: 96/100
+* Capstone project: 
+Project marks: 96/100
 
