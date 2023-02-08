@@ -6,7 +6,7 @@
 
 This repository shares final projects (Jupyter notebooks, SQL queries, Tableau dashboard, htmls files etc) in complement with [eportfolio](https://eportfolio.mygreatlearning.com/ildar-daminov) to provide details on  skills and tools learned during DSDM program (May 2022 - Jan 2023). 
 
-### List of completed projects (the list is still updated): 
+### List of completed projects: 
 
 * [Python for Data Systems](https://github.com/Ildar-Daminov/completed_projects_in_data_science_and_data_management_program/tree/main/Python%20for%20Data%20Systems):  
 
