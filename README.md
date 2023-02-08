@@ -38,7 +38,7 @@ Course marks: 108/110
 
 Learned skills and tools: Data Preprocessing, Logistic Regression, Decision Trees, Model Performance, Feature Engineering, K Means Clustering
 
-* [Capstone project](https://github.com/Ildar-Daminov/completed_projects_in_data_science_and_data_management_program/tree/main/Capstone%20project) 
+* [Capstone project](https://github.com/Ildar-Daminov/completed_projects_in_data_science_and_data_management_program/tree/main/Capstone%20project): 
 
 Project marks: 96/100
 
