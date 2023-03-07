@@ -42,3 +42,7 @@ Learned skills and tools: Data Preprocessing, Logistic Regression, Decision Tree
 
 Project marks: 96/100
 
+### Certificate of program completion
+![Certificate](https://user-images.githubusercontent.com/73365375/223396938-6bc6e19c-e3f1-42aa-9ff9-0f59936bdf31.png)
+
+
